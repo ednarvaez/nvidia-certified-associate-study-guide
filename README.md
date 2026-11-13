@@ -150,6 +150,7 @@ nvidia-certified-associate/
 - LinkedIn NVIDIA Certification Groups
 
 ### Practice Platforms
+- [Cloud & SRE Exam Arena (NCA-GENL Track)](https://fabianimv.github.io/exam-arena/) - Free open-source interactive exam simulator covering NVIDIA Generative AI & LLMs Associate domains with per-option diagnostic rationales and architecture diagrams (bilingual ES/EN, no login required)
 - Whizlabs NVIDIA Certification Practice
 - Udemy NCA-GENL Courses
 - Coursera NVIDIA Specializations
